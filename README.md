@@ -1,2 +1,5 @@
 # kicad
-custom kicad libraries and footprints
+custom KiCad libraries and footprints
+
+# License
+see LICENSE file
