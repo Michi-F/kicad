@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP mech_2x_11
+$CMP Mech_2x_11
 D mechanical switch; 2x on/on
 K switch on/on
 $ENDCMP
