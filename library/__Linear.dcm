@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD1117STR
+D 800mA 15V Adjustable Linear Regulator, SOT-223
+K Adjustable Voltage Regulator 800mA Positive
+$ENDCMP
+#
+$CMP LT1117IST#PBF
+D 800mA 15V Adjustable Linear Regulator, SOT-223
+K Adjustable Voltage Regulator 800mA Positive
+$ENDCMP
+#
+#End Doc Library
